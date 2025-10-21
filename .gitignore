@@ -1,0 +1,14 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+*.sln
+*.log
+*.tmp
+*.pdb
+*.user
+*.userprefs
+*.suo
+
