@@ -76,7 +76,7 @@ AI 모델링 도구인 **[Meshy.ai](https://www.meshy.ai/)** 를 사용해 실�
 
 | 분류 | 사용 기술 |
 |------|-------------|
-| **Game Engine** | Unreal Engine 5.4.4 |
+| **Game Engine** | Unreal Engine 5.5.4 |
 | **3D Modeling AI** | Meshy.ai |
 | **Language** | C++, Blueprint |
 | **Animation** | AI Animation Generation / Unreal AnimBP |
