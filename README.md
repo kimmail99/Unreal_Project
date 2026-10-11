@@ -1,4 +1,4 @@
-# AI-Powered Avatar Creation and Combat Game Prototype (Unreal Engine 5.5.4)
+# AI Avatar Creation and Combat Game Prototype (Unreal Engine 5.5.4)
 
 ## Project Overview
 
